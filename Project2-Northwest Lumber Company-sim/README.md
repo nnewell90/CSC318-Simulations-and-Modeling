@@ -7,7 +7,6 @@ The Northwest Lumber Company has a new tree called the High Country Pine. This i
 | Growth Stage | Drought (1"-3") |             | Moderate (4"-10") |             | Heavy (11" or greater) |             |
 | ------------ | --------------- | ----------- | ----------------- | ----------- | ---------------------- | ----------- |
 |              | Dying           | Not Growing | Dying             | Not Growing | Dying                  | Not Growing |
-| ------------ | --------------- | ----------- | ----------------- | ----------- | ---------------------- | ----------- |
 | Year 1       | 10              | 70          | 5                 | 1           | 2                      | 2           |
 | Year 2       | 10              | 75          | 5                 | 2           | 3                      | 3           |
 | Year 3       | 30              | 60          | 5                 | 2           | 3                      | 3           |
