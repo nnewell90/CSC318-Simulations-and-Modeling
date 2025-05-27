@@ -1,5 +1,5 @@
 # The Newsboy Problem
-## Project Requirements
+## Project Details
 
 Suppose a newsboy knows from past experience that customer demand may be 15, 16, 17, 18, 19, or 20 newspapers a day. He knows that the relative frequency will be:
 
@@ -19,5 +19,5 @@ The newsboy buys papers for $0.35 and sells them for $1.00. All extra papers he 
 
 Run each reordering policy for 1,000 days and print the results.
 
-## Additional Requirements
+## Project Requirements
 Modify the Newsboy simulation. Add to the Newsboy object the ability of maintaining statistics. The new object should be able to return the average papers sold per day, the average papers demanded per day and the variance for both the papers sold and demanded. Further, the new object must product the average profit per day and the variance of the daily profit.
