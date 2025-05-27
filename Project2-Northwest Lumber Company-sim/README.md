@@ -4,7 +4,6 @@ The Northwest Lumber Company has a new tree called the High Country Pine. This i
 
 1. Drought: The pine is a drought resistant tree that will grow in those years of high rain and simply stagnate during those years when drought hits the tree. If it would rain every year, the trees would grow to maturity in five years.
 
-|              |                 |             | Rainfall          |             |                        |             |
 | Growth Stage | Drought (1"-3") |             | Moderate (4"-10") |             | Heavy (11" or greater) |             |
 | ------------ | --------------- | ----------- | ----------------- | ----------- | ---------------------- | ----------- |
 |              | Dying           | Not Growing | Dying             | Not Growing | Dying                  | Not Growing |
@@ -15,4 +14,9 @@ The Northwest Lumber Company has a new tree called the High Country Pine. This i
 
 2. Beetles: The pine is also attacked by beetles. Unfortunately, the beetles thrive in dry weather. The following table describes the beetle's affect on the trees.
 
-| Growth Stage | 
+| Growth Stage | Drought | Moderate | Heavy |
+| ------------ | ------- | -------- | ----- |
+| Year 1       | 10      | 5        | 0     |
+| Year 2       | 15      | 5        | 0     |
+| Year 3       | 30      | 10       | 2     |
+| Year 4       | 30      | 10       | 2     |
